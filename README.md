@@ -22,6 +22,6 @@ The application allows you to view a list of customers and their reward points f
 ## Technologies Used
 The application was built using the following technologies:
 
-React
-Material-UI
-Recharts
+- React
+- Material-UI
+- Recharts
